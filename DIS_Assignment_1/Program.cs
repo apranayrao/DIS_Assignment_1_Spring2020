@@ -26,7 +26,7 @@ namespace DIS_Assignment_1_Spring2020
          
             //Enter the value of num
             double num;
-            Console.WriteLine("Enter the Number of lines for pattern:");
+            Console.WriteLine("Enter the Number of Lines for pattern:");
             num = Convert.ToDouble(Console.ReadLine());
             PrintPattern(num);
 
